@@ -1,0 +1,75 @@
+ 
+   
+   
+ {
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "name": "raj",
+      "email": "raj@gmail.com",
+      "phone": "9913548243",
+      "password": "565758",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "name": "Deep Hanani",
+      "email": "abc@gmail.com",
+      "phone": "2589639632",
+      "password": "85236",
+      "id": 7
+    },
+    {
+      "name": "Deep Hanani",
+      "email": "abc@gmail.com",
+      "phone": "2589639632",
+      "password": "85236",
+      "id": 8
+    },
+    {
+      "name": "Deep Hanani",
+      "email": "abc@gmail.com",
+      "phone": "2356892356",
+      "password": "235689147",
+      "id": 9
+    },
+    {
+      "name": "Deep Hanani",
+      "email": "abc@gmail.com",
+      "phone": "1234568959",
+      "password": "1234",
+      "id": 10
+    }
+  ],
+  "profile": {
+    "name": "raj",
+    "email": "raj@gmail.com",
+    "phone": "9913548243",
+    "password": "565758"
+  }
+}
